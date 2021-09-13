@@ -32,3 +32,8 @@
 - Added REST API to the following endpoint(GET):
 http://localhost:5000/medias
 
+
+# Assesment Completed & Pending Items
+- Frontend & Backend both projects completed and its up & running successfully. 
+- Typescript & Client side state management completed
+- If I have more time, I would have implemented server side caching and testing for UI using React Testing Library.
